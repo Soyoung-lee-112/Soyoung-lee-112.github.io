@@ -370,6 +370,9 @@ section.main__wrap p{
     .marquee,.marquee img{
         height: 5rem;
     }
+    header{
+        height: 80px;
+    }
     .nav__ul{display: none}
 
 }
