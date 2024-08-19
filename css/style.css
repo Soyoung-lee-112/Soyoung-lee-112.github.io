@@ -289,16 +289,29 @@ section.main__wrap p{
 
 .copyright {
     position: absolute;
-    bottom: 3rem;
+    bottom: 5rem;
     width: 100%;
-}
-
-.copyright__txt {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     font-size: 1.5rem;
     color: #a9a9a9;
-    text-align: center;
     line-height: 1.5;
 }
+.copyright .link__box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4rem;
+}
+.copyright .link__box a{
+    display: block;
+}
+.copyright .link__box a:hover{
+    color: #333;
+    text-decoration: underline;
+}
+
 .contact__txt_1 {
     font-size: 4rem;
     font-size: clamp(2.4rem, 4vw, 4rem);
@@ -332,6 +345,7 @@ section.main__wrap p{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    /*font-size: 70px;*/
 }
 
 .letter{
