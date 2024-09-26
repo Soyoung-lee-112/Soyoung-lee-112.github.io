@@ -412,6 +412,13 @@ section.main__wrap p{
     .footer__wrap{
         padding: 0 2vw;
     }
+    .copyright {
+        flex-direction: column-reverse;
+        gap: 4rem;
+    }
+    .copyright .link__box {
+        width: 80%
+    }
     .m-block{
         display: block;
     }
