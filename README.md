@@ -7,4 +7,4 @@
 
 
  ### 🔍 미리보기
-  ![screencapture-localhost-63342-portfolio-index-html-2024-08-19-15_33_58](https://github.com/user-attachments/assets/08c43097-3d9c-41a1-90fc-d6d26159520d)
+![screencapture-127-0-0-1-5502-index-html-2025-01-03-16_49_48](https://github.com/user-attachments/assets/67a6c74a-98b7-4510-8b82-be664ba607c3)
